@@ -1,5 +1,5 @@
 # Website-vinhos
 
-![alt text]("img-exemplo.jpg")
+![alt text](https://github.com/WeslleySimoes/Website-vinhos/blob/main/img-exemplo.JPG)
 
  
